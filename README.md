@@ -14,19 +14,13 @@
 
 Public instance game manager, with public reference to minor common managers
 
-**Audio**
-volume pref
+**Audio** - Volume pref
 
-**Progress**
-> level
+**Progress** - Level
 
-**SaveLoad**
-> Basic Xml serialization
-> 
-> Delete save
+**SaveLoad** - Basic Xml serialization and a save data delete
 
-**Scene**
-> scene loader
+**Scene** - Scene loader
 
 ## Scenes
 
